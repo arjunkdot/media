@@ -119,5 +119,21 @@
       "title": "Gorgeous Soft Table"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "c4f7",
+      "albumId": "2ea2",
+      "url": "https://loremflickr.com/150/150/city?lock=27473"
+    },
+    {
+      "id": "18c9",
+      "albumId": "2ea2",
+      "url": "https://loremflickr.com/150/150/city?lock=27067"
+    },
+    {
+      "id": "a577",
+      "albumId": "f543",
+      "url": "https://loremflickr.com/150/150/city?lock=73640"
+    }
+  ]
 }

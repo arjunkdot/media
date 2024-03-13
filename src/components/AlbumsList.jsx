@@ -16,7 +16,7 @@ function AlbumsList({ user }) {
   if (isFetching) {
     content = <Skeleton className="h-10 w-full" times={3} />;
   } else if (error) {
-    content = <div>Erro loading data.</div>;
+    content = <div>Error loading data.</div>;
   } else {
     content = data.map((album) => <AlbumListItem key={album.id} album={album} />);
   }
