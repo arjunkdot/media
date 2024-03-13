@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "4005",
+      "name": "Michele Jenkins"
+    },
+    {
+      "id": "7a05",
+      "name": "Lillie Goyette"
+    },
+    {
+      "id": "6eed",
+      "name": "Tamara Collins"
+    },
+    {
+      "id": "825e",
+      "name": "Doris Boyle"
+    },
+    {
+      "id": "2b8e",
+      "name": "Cora Williamson V"
+    },
+    {
+      "id": "c4fb",
+      "name": "Erin Schuster"
+    },
+    {
+      "id": "49fd",
+      "name": "Miss Cheryl Koepp"
+    },
+    {
+      "id": "3f1b",
+      "name": "Lynette Hoeger"
+    },
+    {
+      "id": "b310",
+      "name": "Gustavo White"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": null
+    },
+    {
+      "id": "6adb",
+      "userId": null,
+      "title": "Practical Frozen Car"
+    },
+    {
+      "id": "a27b",
+      "userId": null,
+      "title": "Rustic Steel Tuna"
+    },
+    {
+      "id": "f551",
+      "userId": null,
+      "title": "Refined Rubber Mouse"
+    },
+    {
+      "id": "534b",
+      "userId": null,
+      "title": "Generic Soft Keyboard"
+    },
+    {
+      "id": "fe1e",
+      "userId": null,
+      "title": "Generic Granite Fish"
+    },
+    {
+      "id": "2079",
+      "userId": null,
+      "title": "Gorgeous Soft Pants"
+    },
+    {
+      "id": "661f",
+      "userId": null,
+      "title": "Oriental Fresh Towels"
+    },
+    {
+      "id": "4d80",
+      "userId": null,
+      "title": "Awesome Bronze Pizza"
+    },
+    {
+      "id": "f543",
+      "userId": "7a05",
+      "title": "Bespoke Cotton Soap"
+    },
+    {
+      "id": "1b8c",
+      "userId": "3f1b",
+      "title": "Incredible Granite Chicken"
+    },
+    {
+      "id": "eaf5",
+      "userId": "825e",
+      "title": "Refined Steel Ball"
+    },
+    {
+      "id": "0c97",
+      "userId": "825e",
+      "title": "Intelligent Wooden Chicken"
+    },
+    {
+      "id": "cbf1",
+      "userId": "c4fb",
+      "title": "Sleek Concrete Hat"
+    },
+    {
+      "id": "6b32",
+      "userId": "2b8e",
+      "title": "Oriental Fresh Pants"
+    },
+    {
+      "id": "2ea2",
+      "userId": "4005",
+      "title": "Gorgeous Soft Table"
+    }
+  ],
+  "photos": [
+    {
+      "id": "c4f7",
+      "albumId": "2ea2",
+      "url": "https://loremflickr.com/150/150/city?lock=27473"
+    },
+    {
+      "id": "18c9",
+      "albumId": "2ea2",
+      "url": "https://loremflickr.com/150/150/city?lock=27067"
+    },
+    {
+      "id": "a577",
+      "albumId": "f543",
+      "url": "https://loremflickr.com/150/150/city?lock=73640"
+    }
+  ]
+}
