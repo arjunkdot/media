@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": "04ff",
-      "name": "Melissa Little"
-    },
-    {
       "id": "4005",
       "name": "Michele Jenkins"
     },
@@ -27,8 +23,101 @@
     {
       "id": "c4fb",
       "name": "Erin Schuster"
+    },
+    {
+      "id": "49fd",
+      "name": "Miss Cheryl Koepp"
+    },
+    {
+      "id": "3f1b",
+      "name": "Lynette Hoeger"
+    },
+    {
+      "id": "b310",
+      "name": "Gustavo White"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": null
+    },
+    {
+      "id": "6adb",
+      "userId": null,
+      "title": "Practical Frozen Car"
+    },
+    {
+      "id": "a27b",
+      "userId": null,
+      "title": "Rustic Steel Tuna"
+    },
+    {
+      "id": "f551",
+      "userId": null,
+      "title": "Refined Rubber Mouse"
+    },
+    {
+      "id": "534b",
+      "userId": null,
+      "title": "Generic Soft Keyboard"
+    },
+    {
+      "id": "fe1e",
+      "userId": null,
+      "title": "Generic Granite Fish"
+    },
+    {
+      "id": "2079",
+      "userId": null,
+      "title": "Gorgeous Soft Pants"
+    },
+    {
+      "id": "661f",
+      "userId": null,
+      "title": "Oriental Fresh Towels"
+    },
+    {
+      "id": "4d80",
+      "userId": null,
+      "title": "Awesome Bronze Pizza"
+    },
+    {
+      "id": "f543",
+      "userId": "7a05",
+      "title": "Bespoke Cotton Soap"
+    },
+    {
+      "id": "1b8c",
+      "userId": "3f1b",
+      "title": "Incredible Granite Chicken"
+    },
+    {
+      "id": "eaf5",
+      "userId": "825e",
+      "title": "Refined Steel Ball"
+    },
+    {
+      "id": "0c97",
+      "userId": "825e",
+      "title": "Intelligent Wooden Chicken"
+    },
+    {
+      "id": "cbf1",
+      "userId": "c4fb",
+      "title": "Sleek Concrete Hat"
+    },
+    {
+      "id": "6b32",
+      "userId": "2b8e",
+      "title": "Oriental Fresh Pants"
+    },
+    {
+      "id": "2ea2",
+      "userId": "4005",
+      "title": "Gorgeous Soft Table"
+    }
+  ],
   "photos": []
 }
